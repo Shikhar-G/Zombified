@@ -12,7 +12,7 @@ Use the arrow keys to move and spacebar to shoot.
 ## Screenshots
 
 <p align="center">
-<img width="600" alt="Screen Shot 2020-09-16 at 9 06 11 PM" src="https://user-images.githubusercontent.com/29441672/93412009-f5f1c480-f861-11ea-8663-f6d82153ebaf.png">
+<img width="650" alt="Screen Shot 2020-09-16 at 9 06 11 PM" src="https://user-images.githubusercontent.com/29441672/93412009-f5f1c480-f861-11ea-8663-f6d82153ebaf.png">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Use the arrow keys to move and spacebar to shoot.
 </p>
   
 <p align="center">  
-<img width="600" alt="Screen Shot 2020-09-16 at 8 36 38 PM" src="https://user-images.githubusercontent.com/29441672/93412082-1752b080-f862-11ea-8280-dca8e87aef2d.png">
+<img width="650" alt="Screen Shot 2020-09-16 at 8 36 38 PM" src="https://user-images.githubusercontent.com/29441672/93412082-1752b080-f862-11ea-8280-dca8e87aef2d.png">
 </p>
 
 
