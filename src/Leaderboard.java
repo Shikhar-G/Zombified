@@ -81,7 +81,7 @@ public class Leaderboard extends JComponent
 	   	}
 		try 
 		{
-			PrintWriter write = new PrintWriter(new File("scores.txt"));
+			PrintWriter write = new PrintWriter(new File("src/scores.txt"));
 			for (int i = 0; i < scores.size(); i++)
 			{
 				write.println(scores.get(i) + " " + names.get(i));
@@ -109,7 +109,7 @@ public class Leaderboard extends JComponent
 		   String name = names.get(i).trim();
 		   if (name.length() > LENGTH)
 			   name = name.substring(0, LENGTH + 1);
-		   String nameS = String.format("%s", i + 1, name);
+//		   String nameS = String.format("%s", i + 1, name);
 		   String number = Integer.toString(scores.get(i));
 		   gr2.drawString(name, WIDTH * 1 / XTHREE, HEIGHT * (i + 2) / Y);
 		   gr2.drawString(number, WIDTH * 3 / 4, HEIGHT * (i + 2) / Y);
